@@ -25,7 +25,15 @@ nav{
 .redes a{
     margin: 0px 10px;
 }
-
+.redes i{
+    font-size: 20px!important;
+}
+.social-icon .fa-whatsapp{
+    background: rgb(0, 167, 0);
+}
+.social-icon .fa-instagram{
+    background: rgb(248, 0, 103);
+}
 
 #btn-cotizar{
     background: none!important;
